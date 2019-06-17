@@ -19,6 +19,7 @@ public class ITestResultsDemo {
 	public void test2()
 	{
 		Reporter.log("test2", true);
+		Reporter.log("test2", true);
 	}
 	
 	@AfterMethod
